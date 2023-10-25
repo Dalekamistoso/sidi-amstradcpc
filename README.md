@@ -1,6 +1,9 @@
 
-# Amstrad CPC 6128 for MiST and MiSTer
+# Amstrad CPC 6128 for MiST and MiSTer (DrWh0's Unofficial Core)
+
 This core has been started as a port of [CoreAmstrad by Renaud Hélias](https://github.com/renaudhelias/CoreAmstrad) but every module has been either rewritten or replaced so, now it can be treated as a completely new core.
+
+This is an unofficial core conversion for Sidi FPGA by DrWh0
 
 ## Features
 * Precise CPU timings including proper contention model.
