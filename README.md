@@ -1,6 +1,9 @@
 
 # Amstrad CPC 6128 for SiDi (DrWh0's Unofficial Core)
 
+** NEW UPDATES MOVED TO https://github.com/Dalekamistoso/drwh0-computer-sidi **
+
+
 This is an unofficial core conversion for Sidi FPGA, converted from MiST FPGA:
 
 Original MiSTer/MiST Core (sorgelig):
